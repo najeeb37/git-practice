@@ -1,0 +1,3 @@
+public intsrface Calci{
+	public int getsum(int a,int b);
+}
